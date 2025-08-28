@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Hemaya ChatBot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="demo-content">
+    <h1>Welcome To AI Chatbot Support Of Hemaya</h1>
+    <p>Click The Bottom Chat Button On The Down Right Corner To Start Your Conversation!</p>
+  </div>
+
+  <!-- Chat Bot Toggle Button -->
+  <div id="chatbot-toggle">🤖</div>
+
+  <!-- Chatbot Popup Panel -->
+  <div id="chatbot-popup" class="inactive">
+    <div class="chat-header">
+      <h3>AI Hemaya ChatBot</h3>
+      <div class="header-buttons">
+        <button id="feedback-toggle" title="Give Feedback">💬</button>
+        <button id="clear-history-btn" title="Clear Chat History">🗑️</button>
+        <button id="chatbot-close">×</button>
+      </div>
+    </div>
+
+    <!-- Chat Body -->
+    <div id="chat-body" class="chat-body"></div>
+
+    <!-- Chat Input -->
+    <div class="chat-input">
+      <input id="user-input" type="text" placeholder="Type your message..." autocomplete="off" />
+      <button id="send-btn">Send</button>
+    </div>
+
+    <!-- Feedback Form (inside chatbot popup) -->
+    <div id="feedback-form" class="inactive">
+      <h4>Give Feedback</h4>
+      <div class="rating-stars">
+        <span data-star="1">★</span>
+        <span data-star="2">★</span>
+        <span data-star="3">★</span>
+        <span data-star="4">★</span>
+        <span data-star="5">★</span>
+      </div>
+      <textarea id="feedback-comment" placeholder="What can we improve?"></textarea>
+      <button id="submit-feedback-btn">Submit Feedback</button>
+      <button id="cancel-feedback-btn">Cancel</button>
+    </div>
+  </div>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html> 

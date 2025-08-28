@@ -1,0 +1,209 @@
+[
+    {
+        "question": "How To Raise An Incident?",
+        "answer": "To Raise An Incident Kindly Follow The Steps:Click <a href='docs/incident_ticket.pdf' target='_blank'>here</a>"
+    },
+
+    {
+        "question": "How Can I Contact Support?",
+        "answer": "If I cannot solve your issue, kindly contact the support team below for immediate help:\n\n1. Safeera T\n   E-mail - SafeeraT@maaden.com.sa\n\n2. Nitish Kumar\n   E-mail - KumarNit@maaden.com.sa\n\n3. Mamtha G\n   E-mail - GM@maaden.com.sa\n\n4. Sudani Nelson\n   E-mail - NelsonS@maaden.com.sa"
+    },
+
+    {
+       "question": "hi",
+       "answer" : "Hello! How Can I Assist You Today?"
+    },
+
+    {
+        "question": "hello",
+        "answer": "Hi There! Need Any Help?"
+    },
+
+    {
+        "question": "help",
+        "answer": "Sure, I'm here To help. Please Describe Your Issue"
+    },
+
+    {
+       "question": "bye",
+       "answer": "GoodBye! Feel Free To Reach Out Anytime"
+    },
+
+    {
+        "question": "thanks",
+        "answer": "You're Welcome!"
+    },
+
+    {
+        "question": "done",
+        "answer": "Great! Let Me Know If You Need Anything Else"
+    },
+
+    {
+        "question": "good night",
+        "answer": "Good Night! Sleep Well And Take Care"
+    },
+
+    {
+        "question": "how are you",
+        "answer": "I'm Just A Bot, But I'm Doing Great! How About You?"
+    },
+
+    {
+        "question": "what is your name",
+        "answer": "I'm Your Ai assistan, You Can Call Me Hemaya Ai ChatBot"
+
+    },
+
+    {
+        "question": "who created you",
+        "answer": "I Was Created By A Developer Named NeLs0n Who Loves Ai And Automation"
+    },
+
+    {
+        "question": "can you help me",
+        "answer": "Absolutely! Please tell me what you need help with"
+    },
+
+    {
+        "question": "are you human",
+        "answer": "Nope, I'm an AI assitant here to help you"
+    },
+
+    {
+        "question": "tell me a joke",
+        "answer": "Why did the computer get cold? Because it forgot to close its Windows!"
+    },
+
+    {
+        "question": "thank you",
+        "answer": "Anytime! I'm here to help"
+    },
+
+    {
+        "question": "what is hemaya?",
+        "answer": "The Hemaya Application is a collection of Environmental, Health, and Safety and Crisis Management software that lets you unify Essential information at all levels of your enterprise. With it, you can monitor and evaluate virtually every aspect of your operation. Emissions, waste, and wastewater are monitored to your specifications, helping your company meet compliance, inspection, and internal requirements"
+    },
+
+    {
+        "question": "How many modules are there in Hemaya?",
+        "answer": "There are a total of 7 modules available in Hemaya:<br>1. Incident Module<br>2. Audit Module<br>3. Task Manager Module<br>4. Compliance Manager Module<br>5. Waste Module<br>6. Air Module<br>7. Water Module"
+    },
+
+    {
+        "question": "How To Raise An SR?",
+        "answer": "To Raise SR Kindly Follow Following Steps: CLick <a href='docs/sr_request.pdf' target='_blank'>here</a>"
+    },
+
+    {
+        "question": "What Is Incident Module Explain?",
+        "answer": "The Incident™ module provides Environmental, Health, and Safety incident lifecycle management including reporting, basic root cause analysis, incident investigation, and corrective action tracking. Default Incident Type Templates, e.g., Complaint, Injury/Illness, Near Miss, Spills, Transportation, Incident Express, are provided for collecting incident-related information. In addition, users can create their own Incident Type Templates to handle unique situations. Essential Incident supports both U.S. and international industry standard reporting requirements. Seamless integration with the other Essential modules enables users to share industry-proven Task Management, Compliance Management, and Emergency Management."
+    },
+
+    {
+        "question": "what is Audit Module explain?",
+        "answer": "The Audit™ module provides Environmental, Health, and Safety audit lifecycle management, including reporting and corrective action oversight. Store your audit protocols, checklists, and questions, regulatory requirements, auditor information, corrective actions, and tasks in your Essential Audit database. Set up a schedule for your audits, using the auditor information to determine auditor availability and qualifications. Conduct audits, record the results, with findings, recommendations, and observations, and include supporting documentation. Identify corrective action plans and best practices. Use the task management function to assign and help monitor the tasks required to complete the corrective action plan."
+    },
+
+    {
+        "question": "What is the Task Manager Module and how do I use it?",
+        "answer": "The Task Manager™ Module helps you manage tasks for operational goals and compliance. Here's how you can use it step-by-step:\n\n1. **Determine Needed Actions**\n   - Identify what needs to be done to achieve your desired result.\n\n2. **Assign Tasks**\n   - Assign tasks to specific personnel, teams, or supervisors.\n   - Automatic notifications are sent electronically to the assignees.\n\n3. **Track Progress**\n   - Monitor the status of tasks from creation to completion.\n   - Manage resource requirements throughout the process.\n\n4. **Search and Filter Tasks**\n   - Use various criteria to query and isolate specific task details.\n\n5. **Prevent Failures**\n   - Ensure timely task completion with acceptable outcomes.\n   - Avoid delays or substandard execution.\n\n6. **Collect and Use Feedback**\n   - Capture feedback on completed tasks.\n   - Use insights to generate or improve subsequent tasks."
+    },
+
+
+    {
+        "question": "Need help for application",
+        "answer": "Ok What Help Do You Need Can You Specify?"
+    },
+
+
+    {
+        "question": "What Help Do You Provide?",
+        "answer": "I Provide Help In Raising Ticket, Provide Support 24/7, I Explain Topics And Help You Where You Stuck"
+    },
+
+
+    {
+        "question": "ok",
+        "answer": "Ok! If You Need More Help Kindly Contact Me For 24/7 Support!!!"
+    },
+
+
+    {
+        "question": "How To Raise An Enhancement Request or ER?",
+        "answer": "To Raise Er Kindly Follow The Steps: Click <a href='docs/raise_er.pdf' target='_blank'>here</a>"
+    },
+
+    {
+        "question": "Don't Have Access To Application?",
+        "answer": "If You Don't Have Access To Application Kindly Follow Below Step To Raise An Service Request For Access: Click <a href='docs/sr_request.pdf' target='_blank'>here</a>"
+    },
+
+   {
+        "question": "Need Support",
+        "answer": "If I cannot solve your issue, kindly contact the support team below for immediate help:\n\n1. Safeera T\n   E-mail - SafeeraT@maaden.com.sa\n\n2. Nitish Kumar\n   E-mail - KumarNit@maaden.com.sa\n\n3. Mamtha G\n   E-mail - GM@maaden.com.sa\n\n4. Sudani Nelson\n   E-mail - NelsonS@maaden.com.sa"
+   },
+
+   {
+        "question": "Support",
+        "answer": "If I cannot solve your issue, kindly contact the support team below for immediate help:\n\n1. Safeera T\n   E-mail - SafeeraT@maaden.com.sa\n\n2. Nitish Kumar\n   E-mail - KumarNit@maaden.com.sa\n\n3. Mamtha G\n   E-mail - GM@maaden.com.sa\n\n4. Sudani Nelson\n   E-mail - NelsonS@maaden.com.sa"
+   },
+
+   {
+        "question": "Issue Not Solved Need Support",
+        "answer": "If I cannot solve your issue, kindly contact the support team below for immediate help:\n\n1. Safeera T\n   E-mail - SafeeraT@maaden.com.sa\n\n2. Nitish Kumar\n   E-mail - KumarNit@maaden.com.sa\n\n3. Mamtha G\n   E-mail - GM@maaden.com.sa\n\n4. Sudani Nelson\n   E-mail - NelsonS@maaden.com.sa"
+   },
+
+   {
+        "question": "What Is Compliance Manager Module?",
+        "answer": "The Compliance Manager™ module is an information management tool that lets you achieve and prove compliance with the complex collection of rules (i.e., regulations, permits, and policies) that govern and control day-to-day and long-range operations at your facility. To manage compliance, a facility needs to determine which rules apply, manage changes that impact operation, assign responsibility for applicable requirements, and verify compliance. The Compliance Manager module helps you to manage your rules, to streamline the identification of requirements that apply to your operations, and to manage and track compliance for applicable requirements."
+   },
+
+
+   {
+        "question": "What Is Waste Module?",
+        "answer": "The Waste™ module is a core component of the Emissions Management solution set and streamlines many aspects of the recordkeeping and reporting requirements necessary for compliance. Facilities that generate hazardous waste face many requirements in accordance with the Resource Conservation and Recovery Act (RCRA). Paramount among these requirements is that every waste generator must determine if their waste streams are hazardous as defined by RCRA. In addition, stringent procedures must be followed when a generator ships a material off-site to be treated or disposed. Facilities that treat or dispose of hazardous materials have many additional recordkeeping and reporting requirements to prove the operation is running within the guidelines provided by the regulations and their operating permit."
+   },
+
+
+   {
+        "question": "What Is Water Module?",
+        "answer": "The Water™ module is a comprehensive system for monitoring, documenting, and reporting pollutants in outfalls. You can easily comply with operating permits or internal guidelines by entering your permit IDs, monitoring and sampling requirements, and permitted limits."
+   },
+
+
+   {
+        "question": "What Is Air Module?",
+        "answer": "The Air™ module is a sophisticated emissions modeling tool that allows you to address the necessary monitoring, emission estimation, reporting, and recordkeeping tasks associated with regulatory and permit compliance. Build models to describe how your sources operate, what pollutant materials they emit, how they are linked to control devices and other sources, and how they should be calculated. You can also store actual monitoring data in the system and use it as input into standard or custom equations."
+   },
+
+   {
+      "question": "How To Get Power User Access?",
+      "answer": "Sure, But You Need EHSS Team Approval For Power User Access"
+   },
+
+
+   {
+       "question": "How To Get End User Access?",
+       "answer": "For End User Access You Need Approval From Your EHSS Team Focal Point Before I Can Proceed You To Steps For End User Access"
+   },
+
+   {
+        "question": "How To Get Closure Access?",
+        "answer": "For Closure Access You Need Approval From You EHSS Focal Point"
+   },
+
+
+   {
+       "question": "Need High Level Privilege",
+       "answer": "If You Need High Level Privilege Access First You Need Is Approval From Your EHSS Focal Point"
+   },
+
+
+   {
+       "question": "Who Is Nelson?",
+       "answer": "The Sir Nelson Is The One Who Created A ChatBot Like Me!"
+   }
+
+
+]
